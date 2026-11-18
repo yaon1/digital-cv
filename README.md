@@ -3,6 +3,8 @@
 GraphQL API, который рассказывает о разработчике: профиль, навыки, опыт работы с достижениями и проекты.
 Через встроенный Apollo Sandbox можно выполнять запросы прямо в браузере.
 
+Живая версия: https://digital-cv-ig1f.onrender.com/graphql (бесплатный тариф Render, первый запрос после простоя открывается до минуты).
+
 Стек: TypeScript, Node.js 22, NestJS 11, Prisma 6, PostgreSQL 16, GraphQL (Apollo Server 5, code-first), DataLoader, Docker, Git.
 
 ## Запуск с нуля
