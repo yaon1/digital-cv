@@ -4,7 +4,6 @@ services:
     name: digital-cv
     runtime: docker
     plan: free
-    healthCheckPath: /graphql?query=%7B__typename%7D
     envVars:
       - key: DATABASE_URL
         fromDatabase:
